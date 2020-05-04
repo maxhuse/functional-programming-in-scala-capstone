@@ -1,0 +1,64 @@
+# Created by .ignore support plugin (hsz.mobi)
+### SBT template
+# Simple Build Tool
+# http://www.scala-sbt.org/release/docs/Getting-Started/Directories.html#configuring-version-control
+
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+project
+.history
+.cache
+.lib/
+.idea
+capstone-ui/target
+
+*.DS_Store
+
+### Scala template
+*.class
+*.log
+
+src/main/resources/1976.csv
+src/main/resources/1977.csv
+src/main/resources/1978.csv
+src/main/resources/1979.csv
+src/main/resources/1980.csv
+src/main/resources/1981.csv
+src/main/resources/1982.csv
+src/main/resources/1983.csv
+src/main/resources/1984.csv
+src/main/resources/1985.csv
+src/main/resources/1986.csv
+src/main/resources/1987.csv
+src/main/resources/1988.csv
+src/main/resources/1989.csv
+src/main/resources/1990.csv
+src/main/resources/1991.csv
+src/main/resources/1992.csv
+src/main/resources/1993.csv
+src/main/resources/1994.csv
+src/main/resources/1995.csv
+src/main/resources/1996.csv
+src/main/resources/1997.csv
+src/main/resources/1998.csv
+src/main/resources/1999.csv
+src/main/resources/2000.csv
+src/main/resources/2001.csv
+src/main/resources/2002.csv
+src/main/resources/2003.csv
+src/main/resources/2004.csv
+src/main/resources/2005.csv
+src/main/resources/2006.csv
+src/main/resources/2007.csv
+src/main/resources/2008.csv
+src/main/resources/2009.csv
+src/main/resources/2010.csv
+src/main/resources/2011.csv
+src/main/resources/2012.csv
+src/main/resources/2013.csv
+src/main/resources/2014.csv
+src/main/resources/2015.csv
